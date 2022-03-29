@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sellyna (@SewinaJS)
+- 👋 Hi, I’m Sellyna (@SewinaCode)
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning HTML, CSS and Javascript. 
 
